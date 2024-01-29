@@ -1,6 +1,6 @@
-# Express + Vanilla JS project
+# Express + SQL + Vanilla JS project
 
-- [Express + Vanilla JS project](#express--vanilla-js-project)
+- [Express + SQL + Vanilla JS project](#express--sql--vanilla-js-project)
 - [Welcome!](#welcome)
 - [Overview](#overview)
   - [Users?](#users)
